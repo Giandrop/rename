@@ -1,2 +1,10 @@
 # rename
-Pequeño programa para renombrar archivos (Es más una prueba de las funciones de python para manipular archivos).
+Pequeño programa para renombrar archivos
+Utiliza el módulo os de python para manipular archivos
+
+Renombra archivos de la forma
+año-nombre
+a la forma
+nombre (año)
+
+(Pensado para archivos de música)
